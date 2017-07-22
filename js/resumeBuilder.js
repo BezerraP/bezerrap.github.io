@@ -1,6 +1,6 @@
 
 var bio = {
-	"name" : "Phyllipe Matheus Bezerra Alves",
+	"name" : "Phyllipe Bezerra",
 	"role" : "Estudante de Ciência da Computação",
 	"contacts" : {
 		"mobile" : "9-9615-0183",
@@ -11,7 +11,7 @@ var bio = {
 		"location" : "Maceió"
 	},
 	"welcomeMessage" : "Nosce te ipsum.",
-	"skills" : ["Unity", "C/C++", "Python", "Javascript", "Javascript", "Adobe Photoshop", "Adobe Illustrator"],
+	"skills" : ["Unity", "C/C++", "Python", "Javascript", "Adobe Photoshop", "Adobe Illustrator"],
 	"bioPic" : "http://oi65.tinypic.com/23ww2uc.jpg"
 };
 
