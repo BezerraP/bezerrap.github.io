@@ -133,6 +133,14 @@ var education = {
 			"majors" : [""],
 			"dates" : 2015,
 			"url" : "http://www.saolucasmaceio.com.br"
+		},
+		{
+			"name" : "Universidade Federal de Alagoas",
+			"location" : "Maceió, Alagoas",
+			"degree" : "Superior",
+			"majors" : ["Ciência da computação"],
+			"dates" : 2017,
+			"url" : "http://www.ufal.edu.br"
 		}
 	]
 	,
