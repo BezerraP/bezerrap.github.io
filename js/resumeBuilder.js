@@ -12,7 +12,7 @@ var bio = {
 	},
 	"welcomeMessage" : "Curriculo feito com conhecimentos de Javascript",
 	"skills" : ["Unity", "C/C++", "Python", "Javascript", "Javascript", "Adobe Photoshop", "Adobe Illustrator"],
-	"bioPic" : "https://github.com/BezerraP/bezerrap.github.io/blob/master/images/profileimg.png?raw=true"
+	"bioPic" : "images/profileimg.png"
 };
 
 bio.display = function() {
