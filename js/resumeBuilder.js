@@ -10,7 +10,7 @@ var bio = {
 		"linkedin" : "https://es.linkedin.com/",
 		"location" : "Maceió"
 	},
-	"welcomeMessage" : ""CONHECE-TE A TI MESMO E CONHECERÁS TODO O UNIVERSO E OS DEUSES"",
+	"welcomeMessage" : "Nosce te ipsum.",
 	"skills" : ["Unity", "C/C++", "Python", "Javascript", "Javascript", "Adobe Photoshop", "Adobe Illustrator"],
 	"bioPic" : "http://oi65.tinypic.com/23ww2uc.jpg"
 };
