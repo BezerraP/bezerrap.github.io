@@ -10,7 +10,7 @@ var bio = {
 		"linkedin" : "https://es.linkedin.com/",
 		"location" : "Maceió"
 	},
-	"welcomeMessage" : "Curriculo feito com conhecimentos de Javascript",
+	"welcomeMessage" : "Bem vindo!",
 	"skills" : ["Unity", "C/C++", "Python", "Javascript", "Javascript", "Adobe Photoshop", "Adobe Illustrator"],
 	"bioPic" : "http://oi65.tinypic.com/23ww2uc.jpg"
 };
