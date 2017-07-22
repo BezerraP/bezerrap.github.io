@@ -130,7 +130,7 @@ var education = {
 			"name" : "Colégio São Lucas",
 			"location" : "Maceió, Alagoas",
 			"degree" : "Ensino Médio",
-			"majors" : [""],
+			//"majors" : [""],
 			"dates" : 2015,
 			"url" : "http://www.saolucasmaceio.com.br"
 		},
@@ -141,6 +141,13 @@ var education = {
 			"majors" : ["Ciência da computação"],
 			"dates" : 2017,
 			"url" : "http://www.ufal.edu.br"
+		},
+		{
+			"name" : "International Language Academy of Canada",
+			"location" : "Toronto",
+			"majors" : ["Língua Inglesa"],
+			"dates" : 2016,
+			"url" : "https://www.ilac.com"
 		}
 	]
 	,
@@ -235,6 +242,6 @@ function inName() {
   return name[0] + " " + name[1];
 }
 
-//$("#main").append(internationalizeButton);
+$("#main").append(internationalizeButton);
 
-//$("#mapDiv").append(googleMap);
+$("#mapDiv").append(googleMap);
