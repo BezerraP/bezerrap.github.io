@@ -1,6 +1,6 @@
 
 var bio = {
-	"name" : "Phyllipe Alves",
+	"name" : "Phyllipe Matheus Bezerra Alves",
 	"role" : "Estudante de Ciência da Computação",
 	"contacts" : {
 		"mobile" : "9-9615-0183",
