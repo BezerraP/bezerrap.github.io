@@ -130,7 +130,7 @@ var education = {
 			"name" : "Colégio São Lucas",
 			"location" : "Maceió, Alagoas",
 			"degree" : "Ensino Médio",
-			//"majors" : [""],
+			"majors" : [""],
 			"dates" : 2015,
 			"url" : "http://www.saolucasmaceio.com.br"
 		},
@@ -145,6 +145,7 @@ var education = {
 		{
 			"name" : "International Language Academy of Canada",
 			"location" : "Toronto",
+			"degree" : "",
 			"majors" : ["Língua Inglesa"],
 			"dates" : 2016,
 			"url" : "https://www.ilac.com"
