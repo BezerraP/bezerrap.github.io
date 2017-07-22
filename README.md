@@ -1,2 +1,2 @@
-# bezerrap.github.io
+# http://bezerrap.github.io
 Curriculo utilizando JS
