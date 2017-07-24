@@ -4,7 +4,7 @@ var bio = {
 	"role" : "Estudante de Ciência da Computação",
 	"contacts" : {
 		"mobile" : "9-9615-0183",
-		"email" : "phyllipeba@gmail.com",
+		"email" : "pmba@ic.ufal.br",
 		"github" : "https://github.com/BezerraP",
 		"twitter" : "https://twitter.com/",
 		"linkedin" : "https://es.linkedin.com/",
