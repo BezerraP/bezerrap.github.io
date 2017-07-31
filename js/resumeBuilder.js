@@ -164,6 +164,12 @@ var education = {
 			"school" : "Udacity",
 			"dates" : 2017,
 			"url" : "http://www.udacity.com/course/ud804"
+		},
+		{
+			"title" : "Javascript Course",
+			"school" : "Solo Learn",
+			"dates" : 2017,
+			"url" : "https://www.sololearn.com/Course/JavaScript"
 		}
 	],
 	display() {
