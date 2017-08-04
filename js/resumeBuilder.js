@@ -12,7 +12,7 @@ var bio = {
 	},
 	"welcomeMessage" : "Nosce te ipsum.",
 	"skills" : ["Unity", "C/C++", "Python", "Javascript", "Adobe Photoshop", "Adobe Illustrator"],
-	"bioPic" : "http://oi65.tinypic.com/23ww2uc.jpg"
+	"bioPic" : "bezerrap.github.io/favicon.png"
 };
 
 bio.display = function() {
