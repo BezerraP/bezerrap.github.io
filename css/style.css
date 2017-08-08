@@ -102,6 +102,13 @@ a {
   line-height: 28px;
 }
 
+.welcome-role {
+  font-style: normal;
+  font-size: 16px;
+  color: #f3f3f3;
+  line-height: 28px;
+}
+
 #skills-h3 {
   color: #f5ae23;
   display: none;
