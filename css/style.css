@@ -14,11 +14,6 @@ h6 {
   font-family: "Roboto", sans-serif;
 }
 
-@font-face {
-  font-family: 'Luna';
-  src: url('luna.ttf');
-}
-
 .clear-fix {
   overflow: auto;
 }
@@ -95,7 +90,7 @@ a {
 }
 
 .welcome-message {
-  font-style: normal;
+  font-style: italic;
   font-size: 18px;
   color: #f3f3f3;
   line-height: 28px;
