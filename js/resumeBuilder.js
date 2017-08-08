@@ -10,7 +10,7 @@ var bio = {
 		"linkedin" : "https://es.linkedin.com/",
 		"location" : "Maceió"
 	},
-	"welcomeMessage" : "Nosce te ipsum.",
+	"welcomeMessage" : "Nosce te ipsum!",
 	"skills" : ["Unity", "C/C++", "Python", "Javascript", "Adobe Photoshop", "Adobe Illustrator"],
 	"bioPic" : "bezerrap.github.io/favicon.png"
 };
