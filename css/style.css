@@ -95,15 +95,7 @@ a {
 }
 
 .welcome-message {
-  font-family: 'Luna';
   font-style: normal;
-  font-size: 18px;
-  color: #f3f3f3;
-  line-height: 28px;
-}
-
-.welcome-role {
-  font-style: italic;
   font-size: 18px;
   color: #f3f3f3;
   line-height: 28px;
